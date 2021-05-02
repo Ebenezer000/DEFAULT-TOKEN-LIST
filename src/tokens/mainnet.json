@@ -448,6 +448,14 @@
     "logoURI": "https://tokens.julswap.com/images/0x33a80dcB2fEaeb37373c4FBDa26Cd8A31c079128.png"
   },
   {
+    "name": "Kaizen",
+    "address": "0x639588be90b2b6a9abe36f3b66a2d5fd41c83a77",
+    "symbol": "KZN",
+    "decimals": 18,
+    "chainId"  56,
+    "logoURI": "https://kaizenswap.com/img/icon-wallet.png",
+  },
+  {
     "name": "Degenerates",
     "address": "0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3",
     "symbol": "DEGEN",

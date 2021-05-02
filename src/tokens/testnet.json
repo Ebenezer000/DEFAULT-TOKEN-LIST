@@ -55,4 +55,12 @@
     "chainId": 97,
     "logoURI": "https://tokens.julswap.com/images/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
   }
+  {
+    "name": "Kaizen",
+    "address": "0x0ac7264f96f6412d83cdc241f63c0fd19f14610d",
+    "symbol": "KZN",
+    "decimals": 18,
+    "chainId"  56,
+    "logoURI": "https://kaizenswap.com/img/icon-wallet.png",
+  },
 ]

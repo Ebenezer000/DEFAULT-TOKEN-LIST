@@ -1,7 +1,7 @@
 ---
 name: Token Request
 about: Request a token addition
-title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
+title: 'Add {KZN}: {KAIZEN SWAP}'
 labels: token request
 assignees: ''
 ---
@@ -12,11 +12,11 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address:
-Token Name (from contract):
-Token Decimals (from contract):
-Token Symbol (from contract):
+Token Address: 0x639588be90b2b6a9abe36f3b66a2d5fd41c83a77
+Token Name (from contract): KAIZEN SWAP
+Token Decimals (from contract): 18
+Token Symbol (from contract): KZN
 JulSwap Pair Address of Token:
 
-Link to the official homepage of token:
+Link to the official homepage of token: kaizenswap.com
 Link to CoinMarketCap or CoinGecko page of token:
